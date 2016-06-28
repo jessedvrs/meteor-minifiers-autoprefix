@@ -1,7 +1,7 @@
 Package.describe({
-  name: 'seba:minifiers-autoprefixer',
-  version: '1.0.1',
-  summary: 'Standard minifiers used with Meteor apps by default + css autoprefixer.',
+  name: 'jessedvrs:minifiers-autoprefixer',
+  version: '1.1.1',
+  summary: 'Standard minifiers used with Meteor apps by default + css autoprefixer + CSS splitter for IE9.',
   git: 'https://github.com/sebakerckhof/meteor-minifiers-autoprefix.git',
   documentation: 'README.md'
 });
